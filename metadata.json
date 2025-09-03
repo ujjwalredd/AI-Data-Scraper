@@ -1,0 +1,5 @@
+{
+  "name": "AI Data Scraper",
+  "description": "A tool that responsibly gathers and preprocesses text data from websites for AI training, while ensuring ethical and copyright-compliant scraping.",
+  "requestFramePermissions": []
+}
