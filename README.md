@@ -2,7 +2,6 @@
 
 A minimalistic web application designed to responsibly gather and preprocess textual content from websites for AI training. This tool offers flexible extraction modes, allowing users to scrape raw text or extract structured JSON data based on a custom prompt.
 
-![AI Data Scraper Screenshot](https://storage.googleapis.com/aistudio-hosting/workspace-home/projects/2324aa47-4952-47f6-86c3-f02dd42b083b/files/Screenshot.png)
 
 ## ✨ Features
 
